@@ -1,3 +1,3 @@
 # java-movie-recommender
 
-I completed the assignment as a part of my Coursera Capstone project.
+I completed this project as a part of my Coursera Capstone project.
