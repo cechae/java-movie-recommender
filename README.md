@@ -1,3 +1,3 @@
 # java-movie-recommender
 
-I completed this project as a part of my Coursera Capstone project.
+This application recommends movies based on the User's watched movies.
